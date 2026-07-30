@@ -34,19 +34,23 @@
 
 ## 🛠️ Tech Stack
 
-| Category | Tooling & Frameworks |
+| Category | Tooling, Frameworks & Architecture |
 | :--- | :--- |
-| **AI & Agents** | Python, LangGraph, LangChain, Hybrid RAG, FAISS Vector Indexing, Ollama, HITL Gates, Bounded State Machines |
-| **Frontend & Web** | TypeScript, Next.js 16, React 19, Tailwind CSS, Framer Motion, WebSockets, SSE Streaming, Web Audio API |
-| **Backend & Infra** | Node.js, Express, PostgreSQL, Supabase (RLS), Drizzle ORM, Prisma, Docker, Bun, Vercel |
+| **AI Systems & Agents** | Python, LangGraph, LangChain, Multi-Agent Supervisor Routing, Explicit State Machines, Hybrid RAG, FAISS Vector Indexing, Local LLMs (Ollama), Schema Validation, Dynamic Circuit Breakers, Replayable Trace Logs, HITL Gates |
+| **Frontend & Canvas** | TypeScript, Next.js 16/15, React 19, Tailwind CSS, Shadcn UI, Framer Motion, HTML5 Canvas Engine, SVG Topology Graphs, Recharts, Web Audio API (Synths), Web Workers |
+| **Backend & Telemetry** | Node.js, Express, Socket.io, WebSockets, Server-Sent Events (SSE Streaming), Self-Healing Microservices, REST APIs, Bun |
+| **Data, Infra & Web3** | PostgreSQL, Supabase (RLS), SQLite, IndexedDB (Local-First), Drizzle ORM, Prisma, Docker, Vercel, Stripe Integration, Solidity / Foundry (Base L2) |
 
 ---
 
 ## 🎯 Engineering Philosophy
 
-* **Bounded Autonomy > Fragile Prompt Chaining:** Explicit state machines with deterministic routing over unconstrained LLM outputs.
-* **Observability First:** Real-time telemetry, animated topology graphs, and sub-second feedback loops.
-* **Production Reliability:** Bridging multi-agent research with fault-tolerant enterprise infrastructure.
+| Principle | Core Architecture & Realization |
+| :--- | :--- |
+| **Bounded Autonomy** | Explicit state graphs over fragile prompt chaining; strict schema validation, cost-aware model routing, and dynamic circuit breakers. |
+| **Observability First** | Real-time SSE/WebSocket telemetry, animated SVG topology graphs, sub-second feedback loops, and replayable trace logs. |
+| **Zero-Lock-In & Local-First** | Building framework-less vertical agents (Ollama + SQLite + FAISS) and browser-native engines (IndexedDB, Web Workers) for privacy and speed. |
+| **Production Fault-Tolerance** | Self-healing microservice topologies paired with Human-In-The-Loop (HITL) approval gates for critical agent actions. |
 
 ---
 
