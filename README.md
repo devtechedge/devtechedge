@@ -84,11 +84,11 @@ Open-source contribution is now a core part of my engineering practice: I invest
 
 | Principle | Realization |
 | :--- | :--- |
-| **Bounded autonomy** | Explicit state graphs, schema validation, cost-aware routing, and HITL for irreversible actions. |
+| **Bounded autonomy** | State graphs, validation, cost-aware routing, HITL for irreversible actions. |
 | **Retrieval-bounded truth** | Citation-backed Hybrid RAG with hallucination checks. |
-| **Observability first** | Live agent graphs, telemetry, and replayable traces for inspectable decisions. |
-| **Upstream by default** | Reproduce dependency bugs, fix them, test them, and contribute upstream. |
-| **Ship the full stack** | Production-style FastAPI/Next systems with durable Python cores and tests. |
+| **Observability first** | Live graphs, telemetry, and replayable traces. |
+| **Upstream by default** | Reproduce, fix, test, and contribute dependency bugs upstream. |
+| **Ship the full stack** | Production-style FastAPI/Next systems with durable cores and tests. |
 
 ---
 
