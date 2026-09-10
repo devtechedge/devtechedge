@@ -52,8 +52,6 @@ My work spans autonomous multi-agent systems, Hybrid RAG, HITL workflows, real-t
 
 **Web3:** Safe · Stellar · Wagmi · RainbowKit · ethers.js · Coinbase Wallet SDK · MetaMask SDK · Reown AppKit · Across Protocol · viem · Solana Web3.js · Ambire
 
-> The dedicated contribution repositories contain the detailed PR ledger, status history, issue claims, closed work, and pipeline decisions. Counts there are maintained as snapshots so the profile itself stays focused on engineering signal rather than becoming a contribution database.
-
 ---
 
 ## 🚀 Flagship Architectures & Projects
