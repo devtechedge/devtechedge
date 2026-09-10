@@ -25,8 +25,6 @@ My work spans autonomous multi-agent systems, Hybrid RAG, HITL workflows, real-t
 
 ## 🌍 Open Source Engineering
 
-Open-source contribution is now a core part of my engineering practice: I investigate real upstream issues, reproduce failures, implement focused fixes, add regression coverage, and work through maintainer CI/review workflows.
-
 ### Contribution ledgers
 
 - 🧩 **[Non-Web3 OSS Contributions](https://github.com/devtechedge/non-web3-oss-contributions)** - upstream fixes across AI/agent frameworks, developer tooling, databases, runtimes, and JavaScript/Python infrastructure.
