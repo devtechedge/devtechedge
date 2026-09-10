@@ -62,7 +62,7 @@ My work spans multi-agent systems, RAG, HITL workflows, observability, developer
 - 🧠 **[AAROP](https://aarop.vercel.app)** - Explicit Perceive → Plan → Act → Observe → Reflect → Adapt loop with self-verification, bounded autonomy, and replayable traces ([repo](https://github.com/devtechedge/aarop)).
 - ⚖️ **[RegTrace](https://regtrace-ai.vercel.app)** - HITL Web3 compliance copilot mapping packs onto MiCA/VARA with retrieval-bounded findings and article citations ([repo](https://github.com/devtechedge/regulatory_compliance)).
 - 🏥 **[Cadence](https://cadence-healthcare.vercel.app/)** - Deep-memory healthcare agent lab: multi-layer patient memory, journey stages, consent-scoped clinician briefs ([repo](https://github.com/devtechedge/healthcare-deep-memory-agents)).
-- 🔎 **[Veritas](https://veritas-engine-woad.vercel.app/)** - LangGraph research agent with SSE streaming, Gemini + Tavily when keyed, grounded demo mode otherwise ([repo](https://github.com/devtechedge/veritas-engine)).
+- 🔎 **[Veritas](https://veritas-engine-woad.vercel.app)** - LangGraph research agent with SSE streaming, Gemini + Tavily when keyed, grounded demo mode otherwise ([repo](https://github.com/devtechedge/veritas-engine)).
 
 ---
 
@@ -88,14 +88,6 @@ My work spans multi-agent systems, RAG, HITL workflows, observability, developer
 - **Retrieval-bounded truth:** citation-backed RAG with hallucination checks.
 - **Observable, upstream, production-ready:** inspectable traces, upstream fixes, and tested full-stack systems.
 - **Ship the full stack:** durable Python cores with production-style FastAPI/Next surfaces.
-
----
-
-## 🔗 OSS Contribution Focus
-
-I contribute to production infrastructure across AI agents, developer tooling, TypeScript/Python ecosystems, databases, SDKs, and Web3 infrastructure.
-
-The focus is on **concrete upstream improvements that are reproducible, tested, reviewable, and useful to maintainers and users.**
 
 ---
 
