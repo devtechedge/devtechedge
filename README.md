@@ -57,7 +57,8 @@ My work spans autonomous multi-agent systems, Hybrid RAG, HITL workflows, real-t
 ## 🚀 Flagship Architectures & Projects
 
 - 🔬 **[Synthesis](https://synthesis-gold.vercel.app/)** - Autonomous multi-agent research: plan → research → synthesize → critique → finalize, with HITL gates, RAG, Reflexion, and live SSE agent graphs ([repo](https://github.com/devtechedge/synthesis)).
-- 🛡️ **[AEGIS](https://aegis-agent-api.vercel.app/ui)** - Multi-agent operations cortex: LangGraph supervisor + specialist agents, Hybrid RAG, HITL, streaming SSE, FastAPI ([repo](https://github.com/devtechedge/aegis_vercel)).
+- 💼 **[Jobrow](https://jobrow.vercel.app)** - Live register of still-open US tech roles sourced directly from employer ATS boards, with search, filters, company boards, closed-role tracking, and a public JSON API ([repo](https://github.com/devtechedge/job-board)).
+- ⛓️ **[Lattice](https://lattice-devtechedge1.vercel.app)** - Live Web3 jobs platform aggregating blockchain and crypto roles from employer ATS boards, with salary observatory, talent directory, gigs, and hiring intelligence ([repo](https://github.com/devtechedge/lattice)).
 - 🧠 **[AAROP](https://aarop.vercel.app)** - Explicit Perceive → Plan → Act → Observe → Reflect → Adapt loop with self-verification, bounded autonomy, and replayable traces ([repo](https://github.com/devtechedge/aarop)).
 - ⚖️ **[RegTrace](https://regtrace-ai.vercel.app)** - HITL Web3 compliance copilot mapping packs onto MiCA/VARA with retrieval-bounded findings and article citations ([repo](https://github.com/devtechedge/regulatory_compliance)).
 - 🏥 **[Cadence](https://cadence-healthcare.vercel.app/)** - Deep-memory healthcare agent lab: multi-layer patient memory, journey stages, consent-scoped clinician briefs ([repo](https://github.com/devtechedge/healthcare-deep-memory-agents)).
