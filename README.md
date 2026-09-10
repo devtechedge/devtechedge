@@ -4,7 +4,7 @@
 
 I build production-grade AI and full-stack systems, while contributing fixes upstream to the infrastructure I build on.
 
-My work spans multi-agent systems, RAG, HITL workflows, observability, developer tooling, and Web3 infrastructure.
+My work spans multi-agent systems, RAG, HITL workflows, observability, developer tooling, distributed systems, and Web3 infrastructure.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
@@ -59,10 +59,12 @@ My work spans multi-agent systems, RAG, HITL workflows, observability, developer
 - 🔬 **[Synthesis](https://synthesis-gold.vercel.app/)** - Autonomous multi-agent research: plan → research → synthesize → critique → finalize, with HITL gates, RAG, Reflexion, and live SSE agent graphs ([repo](https://github.com/devtechedge/synthesis)).
 - 💼 **[Jobrow](https://jobrow.vercel.app)** - Live register of still-open US tech roles sourced directly from employer ATS boards, with search, filters, company boards, closed-role tracking, and a public JSON API ([repo](https://github.com/devtechedge/job-board)).
 - ⛓️ **[Lattice](https://lattice-devtechedge1.vercel.app)** - Live Web3 jobs platform aggregating blockchain and crypto roles from employer ATS boards, with salary observatory, talent directory, gigs, and hiring intelligence ([repo](https://github.com/devtechedge/lattice)).
+- 🪐 **[Pulsar](https://devtechedge.github.io/pulsar/)** - Decentralized AI compute protocol interface with Base smart contracts, staking flows, wallet connectivity, 3D visualization, tokenomics, and Foundry-tested contracts ([repo](https://github.com/devtechedge/pulsar)).
 - 🧠 **[AAROP](https://aarop.vercel.app)** - Explicit Perceive → Plan → Act → Observe → Reflect → Adapt loop with self-verification, bounded autonomy, and replayable traces ([repo](https://github.com/devtechedge/aarop)).
 - ⚖️ **[RegTrace](https://regtrace-ai.vercel.app)** - HITL Web3 compliance copilot mapping packs onto MiCA/VARA with retrieval-bounded findings and article citations ([repo](https://github.com/devtechedge/regulatory_compliance)).
 - 🏥 **[Cadence](https://cadence-healthcare.vercel.app/)** - Deep-memory healthcare agent lab: multi-layer patient memory, journey stages, consent-scoped clinician briefs ([repo](https://github.com/devtechedge/healthcare-deep-memory-agents)).
 - 🔎 **[Veritas](https://veritas-engine-woad.vercel.app)** - LangGraph research agent with SSE streaming, Gemini + Tavily when keyed, grounded demo mode otherwise ([repo](https://github.com/devtechedge/veritas-engine)).
+- 🔥 **[Chaos Simulator](https://chaos-simulation.vercel.app)** - Real-time chaos engineering dashboard with fault injection, self-healing services, animated service topology, scenario orchestration, live telemetry, and recovery analysis ([repo](https://github.com/devtechedge/chaos-simulator)).
 
 ---
 
@@ -87,7 +89,7 @@ My work spans multi-agent systems, RAG, HITL workflows, observability, developer
 - **Bounded autonomy:** explicit state, validation, cost-aware routing, and HITL for irreversible actions.
 - **Retrieval-bounded truth:** citation-backed RAG with hallucination checks.
 - **Observable, upstream, production-ready:** inspectable traces, upstream fixes, and tested full-stack systems.
-- **Ship the full stack:** durable Python cores with production-style FastAPI/Next surfaces.
+- **Ship the full stack:** production-style TypeScript/React surfaces with Python/FastAPI where it fits.
 
 ---
 
