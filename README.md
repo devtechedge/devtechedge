@@ -94,15 +94,9 @@ Open-source contribution is now a core part of my engineering practice: I invest
 
 ## 🔗 OSS Contribution Focus
 
-I am particularly interested in contributing to projects where AI engineering meets real production infrastructure:
+I contribute to production infrastructure across AI agents, developer tooling, TypeScript/Python ecosystems, databases, SDKs, and Web3 infrastructure.
 
-- AI agents, orchestration, RAG, evaluation, and developer tooling
-- TypeScript / JavaScript ecosystems and build tooling
-- Python infrastructure and backend frameworks
-- SDKs, APIs, databases, ORMs, and networking
-- Web3 wallets, SDKs, protocol tooling, and developer infrastructure
-
-The goal is not contribution volume for its own sake. I aim for **small, concrete upstream improvements that are reproducible, tested, reviewable, and useful to maintainers and users.**
+The focus is on **small, concrete upstream improvements that are reproducible, tested, reviewable, and useful to maintainers and users.**
 
 ---
 
