@@ -1,7 +1,10 @@
 # Hi, I'm Dev 👋
 
-### Full Stack & Forward Deployed AI Engineer
-⚡ *Architecting autonomous multi-agent systems, Hybrid RAG, HITL workflows, and real-time observability — end to end in Python and Next.js.*
+### Full Stack & Forward-Deployed AI Engineer · Open Source Contributor
+
+I build production-grade AI systems and full-stack products — and increasingly contribute fixes **upstream** to the open-source infrastructure I build on.
+
+My work spans autonomous multi-agent systems, Hybrid RAG, HITL workflows, real-time observability, developer tooling, SDKs, databases, and Web3 infrastructure.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
@@ -12,11 +15,30 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF66?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
 [![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.ai)
+
+---
+
+## 🌍 Open Source Engineering
+
+Open-source contribution is now a core part of my engineering practice: I investigate real upstream issues, reproduce failures, implement focused fixes, add regression coverage, and work through maintainer CI/review workflows.
+
+### Contribution ledgers
+
+- 🧩 **[Non-Web3 OSS Contributions](https://github.com/devtechedge/non-web3-oss-contributions)** — upstream fixes across AI/agent frameworks, developer tooling, databases, runtimes, and JavaScript/Python infrastructure.
+- ⛓️ **[Web3 OSS Contributions](https://github.com/devtechedge/web3-oss-contributions)** — upstream fixes across wallets, SDKs, blockchain tooling, protocol infrastructure, and Web3 developer ecosystems.
+
+### Selected upstream ecosystems
+
+**Non-Web3:** pnpm · Biome · SQLMesh · LangGraph.js · Drizzle ORM · CrewAI · node-postgres · TanStack Router · Better Auth · LiveKit Agents · Jinja · Undici · TypeScript-ESLint · Vitest
+
+**Web3:** Safe · Stellar · Wagmi · RainbowKit · ethers.js · Coinbase Wallet SDK · MetaMask SDK · Reown AppKit · Across Protocol · viem · Solana Web3.js · Ambire
+
+> The dedicated contribution repositories contain the detailed PR ledger, status history, issue claims, closed work, and pipeline decisions. Counts there are maintained as snapshots so the profile itself stays focused on engineering signal rather than becoming a contribution database.
 
 ---
 
@@ -49,7 +71,22 @@
 | **Bounded autonomy** | Explicit state graphs over fragile prompt chaining; schema validation, cost-aware routing, and HITL on irreversible actions. |
 | **Retrieval-bounded truth** | Hybrid RAG with citations and hallucination flags — agents argue from sources, not vibes. |
 | **Observability first** | Live agent graphs, SSE/WebSocket telemetry, and replayable traces so every decision is inspectable. |
+| **Upstream by default** | When a bug belongs to an open-source dependency, reproduce it, fix it, test it, and contribute the improvement back upstream. |
 | **Ship the full stack** | Same systems run as FastAPI/Next demos and as durable Python cores with tests — portfolio that behaves like product. |
+
+---
+
+## 🔗 OSS Contribution Focus
+
+I am particularly interested in contributing to projects where AI engineering meets real production infrastructure:
+
+- AI agents, orchestration, RAG, evaluation, and developer tooling
+- TypeScript / JavaScript ecosystems and build tooling
+- Python infrastructure and backend frameworks
+- SDKs, APIs, databases, ORMs, and networking
+- Web3 wallets, SDKs, protocol tooling, and developer infrastructure
+
+The goal is not contribution volume for its own sake. I aim for **small, concrete upstream improvements that are reproducible, tested, reviewable, and useful to maintainers and users.**
 
 ---
 
@@ -58,3 +95,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-ma/)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevTechEdge)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devtechedge)
+
+---
+
+<sub>Building production systems, contributing upstream, and learning in public.</sub>
