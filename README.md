@@ -27,8 +27,8 @@ My work spans multi-agent systems, RAG, HITL workflows, observability, developer
 
 ### Contribution ledgers
 
-- 🧩 **[Non-Web3 OSS Contributions](https://github.com/devtechedge/non-web3-oss-contributions)** - upstream fixes across AI/agent frameworks, developer tooling, databases, runtimes, and JavaScript/Python infrastructure.
-- ⛓️ **[Web3 OSS Contributions](https://github.com/devtechedge/web3-oss-contributions)** - upstream fixes across wallets, SDKs, blockchain tooling, protocol infrastructure, and Web3 developer ecosystems.
+- 🧩 **[Non-Web3 OSS Contributions](https://github.com/devtechedge/non-web3-oss-contributions)** - upstream fixes across AI, developer tooling, databases, runtimes, and JS/Python infrastructure.
+- ⛓️ **[Web3 OSS Contributions](https://github.com/devtechedge/web3-oss-contributions)** - upstream fixes across wallets, SDKs, blockchain tooling, and Web3 infrastructure.
 
 ### Merged upstream contributions
 
