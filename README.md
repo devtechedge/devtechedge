@@ -101,5 +101,3 @@ The focus is on **concrete upstream improvements that are reproducible, tested, 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devtechedge)
 
 ---
-
-<sub>Building production systems, contributing upstream, and learning in public.</sub>
