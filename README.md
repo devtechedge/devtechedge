@@ -70,10 +70,15 @@ My work spans multi-agent systems, RAG, HITL workflows, observability, developer
 
 | Category | Tooling, Frameworks & Architecture |
 | :--- | :--- |
-| **AI Systems & Agents** | Python, LangGraph, LangChain, FastAPI, multi-agent supervisors, explicit state machines, Hybrid RAG / pgvector, HITL gates, SSE telemetry, eval & critique loops, Ollama / local LLMs |
-| **Full-stack product surface** | TypeScript, Next.js, React, Tailwind, Drizzle / Prisma, Postgres, Supabase, Docker, Vercel |
-| **Backend & observability** | SSE streaming, WebSockets, REST, replayable traces, schema validation, demo/live provider toggles |
-| **Also in the toolbox** | Node.js, Bun, Stripe, Solidity / Foundry (Base) when the product needs Web3 |
+| **AI systems & agents** | Python, LangGraph, LangChain, LangServe, FastAPI, explicit agentic state machines, multi-agent supervisors, HITL interrupts, bounded autonomy, Reflexion / critique loops, tool-use / ReAct, durable checkpoints |
+| **RAG, memory & evaluation** | Hybrid RAG, pgvector, BM25, TF-IDF, JSONB embeddings, cosine retrieval, sentence-transformers, long-term memory, retrieval-bounded generation, eval gates, LLM-as-judge, LangSmith |
+| **LLMs, tools & integrations** | Gemini, OpenAI-compatible providers, Groq, Ollama / local LLMs, Tavily, Telegram Bot API, MCP-oriented tool buses, Google Workspace integrations |
+| **Frontend & product** | TypeScript, React, Next.js, TanStack Start, Vite, Tailwind CSS, shadcn/ui, Lucide, Motion / Framer Motion, Recharts, Three.js, React Three Fiber, HTML5 Canvas, SVG |
+| **Data, auth & backend** | PostgreSQL, Supabase, Neon, PGLite, SQLite, Prisma, Drizzle ORM, SQLAlchemy, Pydantic, Zod, Better Auth, REST, Server Actions, API routes |
+| **Realtime, streaming & observability** | SSE, WebSockets, Socket.io, replayable traces, structured telemetry, OpenTelemetry-shaped tracing, live/demo provider switching |
+| **Web3 & smart contracts** | Solidity, OpenZeppelin, Foundry, Base, viem, wagmi, RainbowKit, ethers.js, wallet SDKs, blockchain / wallet infrastructure |
+| **Mobile, runtime & infrastructure** | Expo / React Native, Node.js, Bun, Express, Docker, Vercel, GitHub Actions, GitHub-hosted automation |
+| **Testing & developer tooling** | Vitest, pytest, Playwright, TypeScript compiler, ESLint / Biome, CI test gates, visual regression, security hardening and threat-model documentation |
 
 ---
 
