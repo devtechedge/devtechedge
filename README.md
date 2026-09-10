@@ -25,14 +25,36 @@ My work spans autonomous multi-agent systems, Hybrid RAG, HITL workflows, real-t
 
 ## 🌍 Open Source Engineering
 
-Open-source contribution is a core part of my engineering practice, from reproducing upstream issues and implementing focused fixes to adding regression tests and working through maintainer review and CI.
+Open-source contribution is now a core part of my engineering practice: I investigate real upstream issues, reproduce failures, implement focused fixes, add regression coverage, and work through maintainer CI/review workflows.
 
-- 🧩 **[Non-Web3 OSS Contributions](https://github.com/devtechedge/non-web3-oss-contributions)**
-- ⛓️ **[Web3 OSS Contributions](https://github.com/devtechedge/web3-oss-contributions)**
+### Contribution ledgers
 
-**Selected ecosystems:** pnpm · Biome · SQLMesh · LangGraph.js · Drizzle ORM · CrewAI · Better Auth · Safe · Stellar · Wagmi · ethers.js · MetaMask · Reown · Across Protocol · viem · thirdweb · Anza Kit
+- 🧩 **[Non-Web3 OSS Contributions](https://github.com/devtechedge/non-web3-oss-contributions)** - upstream fixes across AI/agent frameworks, developer tooling, databases, runtimes, and JavaScript/Python infrastructure.
+- ⛓️ **[Web3 OSS Contributions](https://github.com/devtechedge/web3-oss-contributions)** - upstream fixes across wallets, SDKs, blockchain tooling, protocol infrastructure, and Web3 developer ecosystems.
 
-> Detailed PR history and status are maintained in the contribution ledgers.
+### Merged upstream contributions
+
+#### Non-Web3
+
+- ✅ **[pnpm #14754](https://github.com/pnpm/pnpm/pull/14754)** - fixed `pnpm run "/pattern/" --no-bail` so one failing matched script no longer cancels its siblings. Non-recursive pattern runs now continue all selected scripts and report the aggregate failure correctly.
+- ✅ **[pnpm #14756](https://github.com/pnpm/pnpm/pull/14756)** - fixed `pnpm update <name>@<version>` dropping the dependency's existing `^` or `~` range operator. Updates now preserve the manifest's range style and correctly retain `npm:` / `jsr:` prefixes, including prerelease ranges.
+- ✅ **[pnpm #14753](https://github.com/pnpm/pnpm/pull/14753)** - fixed `lockfile: false` being ignored when `devEngines.packageManager.onFail` was `download`. Automatic package-manager switching now works without creating or updating a project `pnpm-lock.yaml`, with persistence moved to the global environment when appropriate.
+- ✅ **[Better Auth #11208](https://github.com/better-auth/better-auth/pull/11208)** - added regression coverage for `/phone-number/verify` OpenAPI `requestBody` generation after a Zod intersection had caused the request body to disappear from generated specs. The runtime was unaffected; the fix locks in the expected generated contract.
+- ✅ **[SQLMesh #6040](https://github.com/SQLMesh/sqlmesh/pull/6040)** - fixed a concurrency race in `sqlmesh test` where `ModelTest.create_test()` ran on worker threads while `time_machine` was being started or stopped, causing intermittent `IndexError` failures. Test creation now happens before work is submitted to the pool.
+- ✅ **[Biome #11667](https://github.com/biomejs/biome/pull/11667)** - added the `useBetterDomTraversing` nursery lint rule, ported from ESLint Unicorn, to flag unnecessary DOM traversal patterns and provide safe transformations where semantics permit.
+
+#### Web3
+
+- ✅ **[thirdweb JS #8938](https://github.com/thirdweb-dev/js/pull/8938)** - fixed `useTokenQuery` swallowing real token lookup failures and incorrectly turning 401, 429, timeout, and other unexpected errors into `unsupported_token`. Genuine failures now reach the existing error and retry path.
+- ✅ **[Anza Kit #2032](https://github.com/anza-xyz/kit/pull/2032)** - corrected the `getPatternMatchCodec` advanced guide to use `number` predicates, matching the current codec typing after the related narrowing fix landed.
+
+### Selected upstream ecosystems
+
+**Non-Web3:** pnpm · Biome · SQLMesh · LangGraph.js · Drizzle ORM · CrewAI · node-postgres · TanStack Router · Better Auth · LiveKit Agents · Jinja · Undici · TypeScript-ESLint · Vitest
+
+**Web3:** Safe · Stellar · Wagmi · RainbowKit · ethers.js · Coinbase Wallet SDK · MetaMask SDK · Reown AppKit · Across Protocol · viem · Solana Web3.js · Ambire
+
+> The dedicated contribution repositories contain the detailed PR ledger, status history, issue claims, closed work, and pipeline decisions. Counts there are maintained as snapshots so the profile itself stays focused on engineering signal rather than becoming a contribution database.
 
 ---
 
