@@ -1,6 +1,6 @@
 # Hi, I'm Dev 👋
 
-### Full Stack & Forward-Deployed AI Engineer · Open Source Contributor
+### Full Stack AI Native Engineer · Open Source Contributor
 
 I build production-grade AI systems and full-stack products, and increasingly contribute fixes **upstream** to the open-source infrastructure I build on.
 
