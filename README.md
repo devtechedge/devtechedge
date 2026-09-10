@@ -90,7 +90,7 @@ My work spans autonomous multi-agent systems, Hybrid RAG, HITL workflows, real-t
 
 I contribute to production infrastructure across AI agents, developer tooling, TypeScript/Python ecosystems, databases, SDKs, and Web3 infrastructure.
 
-The focus is on **small, concrete upstream improvements that are reproducible, tested, reviewable, and useful to maintainers and users.**
+The focus is on **concrete upstream improvements that are reproducible, tested, reviewable, and useful to maintainers and users.**
 
 ---
 
