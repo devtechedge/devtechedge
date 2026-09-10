@@ -82,13 +82,13 @@ Open-source contribution is now a core part of my engineering practice: I invest
 
 ## 🎯 Engineering Philosophy
 
-| Principle | Core Architecture & Realization |
+| Principle | Realization |
 | :--- | :--- |
-| **Bounded autonomy** | Explicit state graphs over fragile prompt chaining; schema validation, cost-aware routing, and HITL on irreversible actions. |
-| **Retrieval-bounded truth** | Hybrid RAG with citations and hallucination flags - agents argue from sources, not vibes. |
-| **Observability first** | Live agent graphs, SSE/WebSocket telemetry, and replayable traces so every decision is inspectable. |
-| **Upstream by default** | When a bug belongs to an open-source dependency, reproduce it, fix it, test it, and contribute the improvement back upstream. |
-| **Ship the full stack** | Same systems run as FastAPI/Next demos and as durable Python cores with tests - portfolio that behaves like product. |
+| **Bounded autonomy** | Explicit state graphs, schema validation, cost-aware routing, and HITL for irreversible actions. |
+| **Retrieval-bounded truth** | Citation-backed Hybrid RAG with hallucination checks. |
+| **Observability first** | Live agent graphs, telemetry, and replayable traces for inspectable decisions. |
+| **Upstream by default** | Reproduce dependency bugs, fix them, test them, and contribute upstream. |
+| **Ship the full stack** | Production-style FastAPI/Next systems with durable Python cores and tests. |
 
 ---
 
