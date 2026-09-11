@@ -34,6 +34,7 @@ My work spans multi-agent systems, RAG, HITL workflows, observability, developer
 
 #### Non-Web3
 
+- ✅ **[node-postgres #3772](https://github.com/brianc/node-postgres/pull/3772)** - stopped `Connection.sync()` from setting the internal `_ending` flag, since the extended-query Sync message is a protocol barrier rather than a disconnect. The flag had silenced genuine `ECONNRESET` / `EPIPE` socket errors for the rest of the connection lifetime after the first parameterized query, with recovery depending only on the async close path under `pipeline: true`.
 - ✅ **[pnpm #14754](https://github.com/pnpm/pnpm/pull/14754)** - fixed `pnpm run "/pattern/" --no-bail` so one failing matched script no longer cancels its siblings. Non-recursive pattern runs now continue all selected scripts and report the aggregate failure correctly.
 - ✅ **[pnpm #14756](https://github.com/pnpm/pnpm/pull/14756)** - fixed `pnpm update <name>@<version>` dropping the dependency's existing `^` or `~` range operator. Updates now preserve the manifest's range style and correctly retain `npm:` / `jsr:` prefixes, including prerelease ranges.
 - ✅ **[pnpm #14753](https://github.com/pnpm/pnpm/pull/14753)** - fixed `lockfile: false` being ignored when `devEngines.packageManager.onFail` was `download`. Automatic package-manager switching now works without creating or updating a project `pnpm-lock.yaml`, with persistence moved to the global environment when appropriate.
