@@ -27,7 +27,7 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 **[OSS Contributions](https://github.com/devtechedge/oss-contributions)** tracks my upstream open-source contributions across developer tooling, databases, infrastructure, SDKs, and Web3, with clear provenance.
 
-### Selected merged contributions
+### Merged:
 
 <img src="https://github.com/anza-xyz.png?size=48" width="32" height="32" alt="Anza" align="left" /> **[Anza Kit #2032](https://github.com/anza-xyz/kit/pull/2032)** — corrected the `getPatternMatchCodec` advanced guide to match current codec typing.
 
