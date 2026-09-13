@@ -58,8 +58,6 @@ The repository is intentionally structured as a contribution portfolio rather th
 
 **Web3 infrastructure:** wallet SDKs · blockchain clients · smart-contract tooling · RPC boundaries · transaction handling · protocol integrations
 
-**Engineering approach:** reproduce first → isolate the failure mode → implement the smallest coherent fix → add regression coverage → validate against the upstream contract → submit with explicit provenance.
-
 ---
 
 ## 🚀 Flagship Architectures & Projects
