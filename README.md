@@ -50,10 +50,6 @@ The repository is intentionally structured as a contribution portfolio rather th
 
 <img src="https://github.com/thirdweb-dev.png?size=48" width="32" height="32" alt="thirdweb" align="left" /> **[thirdweb JS #8938](https://github.com/thirdweb-dev/js/pull/8938)** — fixed `useTokenQuery` collapsing real token lookup failures into `unsupported_token` instead of using the existing error/retry path.
 
-### Current upstream work
-
-The OSS Contributions ledger also tracks active issue-driven work before it is merged, with the target repository, issue/PR provenance, implementation status, and current upstream state kept separate from merged accomplishments.
-
 ---
 
 ## 🧭 Contribution Focus
