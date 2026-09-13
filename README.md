@@ -32,15 +32,17 @@ The repository is intentionally structured as a contribution portfolio rather th
 
 ### Selected merged contributions
 
-- ✅ **[node-postgres #3772](https://github.com/brianc/node-postgres/pull/3772)** — fixed `Connection.sync()` incorrectly setting the internal `_ending` flag, preventing false suppression of subsequent socket errors.
-- ✅ **[pnpm #14754](https://github.com/pnpm/pnpm/pull/14754)** — fixed non-recursive pattern runs with `--no-bail` so matching scripts continue executing and failures are aggregated correctly.
-- ✅ **[pnpm #14756](https://github.com/pnpm/pnpm/pull/14756)** — preserved existing dependency range operators and protocol prefixes during `pnpm update`.
-- ✅ **[pnpm #14753](https://github.com/pnpm/pnpm/pull/14753)** — fixed `lockfile: false` being ignored during automatic package-manager switching.
-- ✅ **[Better Auth #11208](https://github.com/better-auth/better-auth/pull/11208)** — added regression coverage for missing OpenAPI `requestBody` generation after a Zod intersection.
-- ✅ **[SQLMesh #6040](https://github.com/SQLMesh/sqlmesh/pull/6040)** — fixed a concurrency race in `sqlmesh test` involving `time_machine` and worker threads.
-- ✅ **[Biome #11667](https://github.com/biomejs/biome/pull/11667)** — added the `useBetterDomTraversing` nursery lint rule with safe transformations where semantics permit.
-- ✅ **[thirdweb JS #8938](https://github.com/thirdweb-dev/js/pull/8938)** — fixed `useTokenQuery` collapsing real token lookup failures into `unsupported_token` instead of using the existing error/retry path.
-- ✅ **[Anza Kit #2032](https://github.com/anza-xyz/kit/pull/2032)** — corrected the `getPatternMatchCodec` advanced guide to match current codec typing.
+<table>
+<tr><td><img src="https://github.com/anza-xyz.png?size=32" width="28" height="28" alt="Anza"></td><td>✅ <strong><a href="https://github.com/anza-xyz/kit/pull/2032">Anza Kit #2032</a></strong> — corrected the <code>getPatternMatchCodec</code> advanced guide to match current codec typing.</td></tr>
+<tr><td><img src="https://github.com/better-auth.png?size=32" width="28" height="28" alt="Better Auth"></td><td>✅ <strong><a href="https://github.com/better-auth/better-auth/pull/11208">Better Auth #11208</a></strong> — added regression coverage for missing OpenAPI <code>requestBody</code> generation after a Zod intersection.</td></tr>
+<tr><td><img src="https://github.com/biomejs.png?size=32" width="28" height="28" alt="Biome"></td><td>✅ <strong><a href="https://github.com/biomejs/biome/pull/11667">Biome #11667</a></strong> — added the <code>useBetterDomTraversing</code> nursery lint rule with safe transformations where semantics permit.</td></tr>
+<tr><td><img src="https://github.com/brianc.png?size=32" width="28" height="28" alt="node-postgres"></td><td>✅ <strong><a href="https://github.com/brianc/node-postgres/pull/3772">node-postgres #3772</a></strong> — fixed <code>Connection.sync()</code> incorrectly setting the internal <code>_ending</code> flag, preventing false suppression of subsequent socket errors.</td></tr>
+<tr><td><img src="https://github.com/pnpm.png?size=32" width="28" height="28" alt="pnpm"></td><td>✅ <strong><a href="https://github.com/pnpm/pnpm/pull/14754">pnpm #14754</a></strong> — fixed non-recursive pattern runs with <code>--no-bail</code> so matching scripts continue executing and failures are aggregated correctly.</td></tr>
+<tr><td><img src="https://github.com/pnpm.png?size=32" width="28" height="28" alt="pnpm"></td><td>✅ <strong><a href="https://github.com/pnpm/pnpm/pull/14756">pnpm #14756</a></strong> — preserved existing dependency range operators and protocol prefixes during <code>pnpm update</code>.</td></tr>
+<tr><td><img src="https://github.com/pnpm.png?size=32" width="28" height="28" alt="pnpm"></td><td>✅ <strong><a href="https://github.com/pnpm/pnpm/pull/14753">pnpm #14753</a></strong> — fixed <code>lockfile: false</code> being ignored during automatic package-manager switching.</td></tr>
+<tr><td><img src="https://github.com/SQLMesh.png?size=32" width="28" height="28" alt="SQLMesh"></td><td>✅ <strong><a href="https://github.com/SQLMesh/sqlmesh/pull/6040">SQLMesh #6040</a></strong> — fixed a concurrency race in <code>sqlmesh test</code> involving <code>time_machine</code> and worker threads.</td></tr>
+<tr><td><img src="https://github.com/thirdweb-dev.png?size=32" width="28" height="28" alt="thirdweb"></td><td>✅ <strong><a href="https://github.com/thirdweb-dev/js/pull/8938">thirdweb JS #8938</a></strong> — fixed <code>useTokenQuery</code> collapsing real token lookup failures into <code>unsupported_token</code> instead of using the existing error/retry path.</td></tr>
+</table>
 
 ### Current upstream work
 
