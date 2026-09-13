@@ -88,11 +88,8 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 ## 🎯 Engineering Philosophy
 
-- **Bounded autonomy:** explicit state, validation, cost-aware routing, and HITL for irreversible actions.
-- **Retrieval-bounded truth:** citation-backed RAG with validation and evaluation gates.
-- **Observable systems:** inspectable traces, structured telemetry, reproducible failures, and meaningful regression tests.
-- **Upstream mindset:** improve the infrastructure being used, not just the application sitting on top of it.
-- **Provenance first:** every OSS contribution is tied to its actual upstream issue/PR state; merged, active, and planned work are never conflated.
+Bounded, observable AI systems with validated retrieval, explicit state, cost-aware routing, and human oversight.  
+Improve infrastructure upstream, with reproducible engineering and strict OSS provenance.
 
 ---
 
