@@ -25,8 +25,6 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 ## 🌍 Open Source Engineering
 
-### OSS Contributions
-
 **[OSS Contributions](https://github.com/devtechedge/oss-contributions)** tracks my upstream open-source contributions across developer tooling, databases, infrastructure, SDKs, and Web3, with clear provenance.
 
 ### Selected merged contributions
