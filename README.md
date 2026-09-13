@@ -18,8 +18,8 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![ChatGPT 5.6](https://img.shields.io/badge/ChatGPT_5.6-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
 [![Grok 4.6](https://img.shields.io/badge/Grok_4.6-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.ai/)
-[![GLM 5.3](https://img.shields.io/badge/GLM_5.3-111111?style=for-the-badge&logo=zhipu&logoColor=white)](https://z.ai/)
-[![Kimi K3](https://img.shields.io/badge/Kimi_K3-111111?style=for-the-badge&logo=moonrepo&logoColor=white)](https://www.moonshot.ai/)
+[![GLM 5.3](https://img.shields.io/badge/GLM_5.3-4C6FFF?style=for-the-badge&logo=zhipu&logoColor=white)](https://z.ai/)
+[![Kimi K3](https://img.shields.io/badge/Kimi_K3-111111?style=for-the-badge&logo=moonshot&logoColor=white)](https://www.moonshot.ai/)
 
 ---
 
