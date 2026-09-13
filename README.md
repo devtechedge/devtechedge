@@ -2,9 +2,7 @@
 
 ### Full Stack AI Native Engineer · Open Source Contributor
 
-I build production-grade AI and full-stack systems, while contributing fixes upstream to the infrastructure I build on.
-
-My work spans autonomous multi-agent systems, explicit state machines, Hybrid RAG, memory and evaluation, observability, developer tooling, distributed systems, and Web3 infrastructure.
+I build production-grade AI and full-stack systems and contribute fixes upstream across AI, developer tooling, distributed systems, and Web3 infrastructure.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178B9?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
