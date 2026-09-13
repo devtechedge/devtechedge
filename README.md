@@ -26,7 +26,7 @@ My work spans autonomous multi-agent systems, explicit state machines, Hybrid RA
 
 ### OSS Contributions
 
-[OSS Contributions](https://github.com/devtechedge/oss-contributions) is the canonical ledger of my upstream open-source work across developer tooling, frameworks, databases, runtimes, infrastructure, wallets, SDKs, and blockchain software, tracking merged and active contributions alongside their provenance, issue context, implementation details, and repository coverage.
+**[OSS Contributions](https://github.com/devtechedge/oss-contributions)** is the canonical ledger of my upstream open-source work, tracking contributions across developer tooling, frameworks, databases, runtimes, infrastructure, wallets, SDKs, and blockchain software with clear provenance and implementation context.
 
 ### Selected merged contributions
 
