@@ -49,14 +49,6 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 ---
 
-## 🧭 Contribution Focus
-
-**AI & developer infrastructure:** Python · TypeScript · agent systems · state machines · RAG · memory · evaluation · observability · CI/CD · developer tooling
-
-**Web3 infrastructure:** wallet SDKs · blockchain clients · smart-contract tooling · RPC boundaries · transaction handling · protocol integrations
-
----
-
 ## 🚀 Flagship Architectures & Projects
 
 - 🔬 **[Synthesis](https://synthesis-gold.vercel.app/)** — autonomous multi-agent research with planning, research, synthesis, critique, HITL gates, RAG, Reflexion, and live SSE agent graphs ([repo](https://github.com/devtechedge/synthesis)).
