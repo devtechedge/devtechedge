@@ -16,7 +16,7 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF6E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![ChatGPT 5.6](https://img.shields.io/badge/ChatGPT_5.6-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
 [![Grok 4.6](https://img.shields.io/badge/Grok_4.6-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.ai/)
 [![GLM 5.3](https://img.shields.io/badge/GLM_5.3-111111?style=for-the-badge&logo=zhipu&logoColor=white)](https://z.ai/)
 [![Kimi K3](https://img.shields.io/badge/Kimi_K3-111111?style=for-the-badge&logo=moonrepo&logoColor=white)](https://www.moonshot.ai/)
