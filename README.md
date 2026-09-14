@@ -46,6 +46,8 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 <img src="https://github.com/pnpm.png?size=48" width="32" height="32" alt="pnpm" align="left" /> **[pnpm #14863](https://github.com/pnpm/pnpm/pull/14863)** — fixed startup crashes on FreeBSD and other non-Windows Unix-like platforms by making default_store_dir use the Unix fallback path, with platform-specific regression coverage.
 
+<img src="https://github.com/pytest-dev.png?size=48" width="32" height="32" alt="pytest-env" align="left" /> **[pytest-env #262](https://github.com/pytest-dev/pytest-env/pull/262)** — documented that pytest.toml and .pytest.toml accept the native [pytest] env table, not only the plugin-specific [pytest_env] section.
+
 <img src="https://github.com/recharts.png?size=48" width="32" height="32" alt="Recharts" align="left" /> **[Recharts #7805](https://github.com/recharts/recharts/pull/7805)** — removed `tabIndex={-1}` from z-index portal SVG `<g>` layers so empty groups are not pointer-focusable and WebKit does not draw geometry-traced focus rings; added regression coverage asserting no layer carries a `tabindex` attribute.
 
 <img src="https://github.com/web-infra-dev.png?size=48" width="32" height="32" alt="Rspress" align="left" /> **[Rspress #3678](https://github.com/web-infra-dev/rspress/pull/3678)** — fixed search initialization racing ahead of asynchronous FlexSearch indexing by awaiting all `addAsync()` operations before initialization resolves, preventing early queries from incorrectly returning no results on larger sites.
