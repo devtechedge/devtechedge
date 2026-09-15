@@ -69,7 +69,6 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 <img src="https://github.com/ssf0409.png?size=48" width="32" height="32" alt="tracelens" align="left" /> **[tracelens #140](https://github.com/ssf0409/tracelens/pull/140)** — markdown table cells in the report generator are now escaped with html.escape in addition to pipe and newline handling. Task ids or gate values containing pipes, line breaks, or HTML metacharacters no longer break the per-task and baseline-gate tables piped into $GITHUB_STEP_SUMMARY, and no cell can open a raw HTML element.
 <!-- ledger:profile-merged:end -->
 
-<!-- ledger:profile-merged:end -->
 
 ---
 
