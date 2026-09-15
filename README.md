@@ -30,8 +30,6 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 ### Merged:
 
 <!-- ledger:profile-merged:start -->
-
-<!-- ledger:profile-merged:start -->
 <img src="https://github.com/anza-xyz.png?size=48" width="32" height="32" alt="Anza" align="left" /> **[Anza Kit #2032](https://github.com/anza-xyz/kit/pull/2032)** — corrected the `getPatternMatchCodec` advanced guide to match current codec typing.
 
 <img src="https://github.com/better-auth.png?size=48" width="32" height="32" alt="Better Auth" align="left" /> **[Better Auth #11208](https://github.com/better-auth/better-auth/pull/11208)** — added regression coverage for missing OpenAPI `requestBody` generation after a Zod intersection.
