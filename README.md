@@ -56,6 +56,8 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 <img src="https://github.com/stellar.png?size=48" width="32" height="32" alt="Stellar" align="left" /> **[stellar-docs #2849](https://github.com/stellar/stellar-docs/pull/2849)** — reworked the Soroban address conversion example to propagate the fallible `Result<Address, ConversionError>` from `Address::from_xdr()` instead of calling `.unwrap()`, which panics on malformed XDR, and noted that contracts consuming XDR from untrusted sources must handle the error instead of aborting.
 
+<img src="https://github.com/stellar.png?size=48" width="32" height="32" alt="Stellar" align="left" /> **[stellar-docs #2850](https://github.com/stellar/stellar-docs/pull/2850)** — documented Quickstart's undocumented `--enable-core-manual-close` flag in the advanced usage docs. The Operation Modes page now covers the flag, the `MANUAL_CLOSE` setting it writes into the generated `etc/stellar-core.cfg`, and triggering a close through the `manualclose` endpoint on port 11626, while Run Commands adds macOS, Linux, and Windows startup examples that bind the admin port to loopback. The new section also records two limits readers hit in practice: the flag is accepted on every network but only usable on local, because stellar-core checks `NODE_IS_VALIDATOR` when `manualclose` is invoked and only the local config sets it, and each invocation advances exactly one ledger.
+
 <img src="https://github.com/stellar.png?size=48" width="32" height="32" alt="Stellar" align="left" /> **[stellar-docs #2851](https://github.com/stellar/stellar-docs/pull/2851)** — qualified the dapp frontend guide's blanket claim that Freighter requires HTTPS; `http://localhost` and `http://127.0.0.1` are already Potentially Trustworthy origins under the W3C Secure Contexts specification, so plain HTTP on loopback satisfies the requirement and local development needs no TLS.
 
 <img src="https://github.com/stellar.png?size=48" width="32" height="32" alt="Stellar" align="left" /> **[stellar-docs #2853](https://github.com/stellar/stellar-docs/pull/2853)** — reconciled contradictory memo guidance in the pooled accounts guide: the intro framed memos as obsolete while later sections still required supporting them, so memos now read as the legacy mechanism still in active use and muxed accounts as preferred going forward.
@@ -64,6 +66,7 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 <img src="https://github.com/ssf0409.png?size=48" width="32" height="32" alt="tracelens" align="left" /> **[tracelens #140](https://github.com/ssf0409/tracelens/pull/140)** — markdown table cells in the report generator are now escaped with html.escape in addition to pipe and newline handling. Task ids or gate values containing pipes, line breaks, or HTML metacharacters no longer break the per-task and baseline-gate tables piped into $GITHUB_STEP_SUMMARY, and no cell can open a raw HTML element.
 <!-- ledger:profile-merged:end -->
+
 ---
 
 ## 🚀 Flagship Architectures & Projects
