@@ -116,16 +116,19 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 ---
 
-## 🎯 Engineering Philosophy
+## 📜 Certifications
 
-Bounded, observable AI systems with validated retrieval, explicit state, cost-aware routing, and human oversight.  
-Improve infrastructure upstream, with reproducible engineering and strict OSS provenance.
+10 key credentials. Full archive of 30 with verification links and local PDFs: [devtechedge/certifications](https://github.com/devtechedge/certifications).
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-ma/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devtechedge)
+- [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/g9szj3w428ix) - Anthropic, Sep 2026
+- [AI Fluency for Builders](https://verify.skilljar.com/c/bxe2dhq82w6c) - Anthropic with CodePath, Sep 2026
+- [Agents and Workflows](https://academy.openai.com/public/certificate/cv4gh56iyc) - OpenAI Academy, Sep 2026
+- [Deep Agents with LangGraph](https://academy.langchain.com/courses/deep-agents-with-langgraph) - LangChain Academy, Jun 2026
+- [Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents) - LangChain Academy, Jun 2026
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/X6UWWBABR5XA) - DeepLearning.AI, Jul 2020
+- [TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MB53RUAWEP96) - DeepLearning.AI, Aug 2020
+- [AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/8W8Q9UJSFR7R) - Amazon Web Services, Jul 2020
+- [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/DevayanMandal-5513/3841D21B0E5E588F?sharingId) - Microsoft, Aug 2020
+- [Blockchain Specialization](https://www.coursera.org/account/accomplishments/specialization/HT9CWLVYLDH9) - University of California, Irvine, Jul 2020
 
 ---
