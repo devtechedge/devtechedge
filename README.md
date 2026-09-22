@@ -56,11 +56,11 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 <img src="https://github.com/pytest-dev.png?size=48" width="32" height="32" alt="pytest-env" align="left" /> **[pytest-env #262](https://github.com/pytest-dev/pytest-env/pull/262)** - documented that pytest.toml and .pytest.toml accept the native [pytest] env table, not only the plugin-specific [pytest_env] section.
 
-<img src="https://github.com/mkdocstrings.png?size=48" width="32" height="32" alt="python" align="left" /> **[python #342](https://github.com/mkdocstrings/python/pull/342)** - autorefsHook.expand_identifier anchors leading-dot relative cross-references on docstring.parent, the object the docstring was written on, so inherited members resolve against the defining module instead of the inheriting class.
+<img src="https://github.com/mkdocstrings.png?size=48" width="32" height="32" alt="python" align="left" /> **[python #342](https://github.com/mkdocstrings/python/pull/342)** - expand relative cross-references against the object the docstring was written on
 
 <img src="https://github.com/recharts.png?size=48" width="32" height="32" alt="Recharts" align="left" /> **[Recharts #7805](https://github.com/recharts/recharts/pull/7805)** - removed `tabIndex={-1}` from z-index portal SVG `<g>` layers so empty groups are not pointer-focusable and WebKit does not draw geometry-traced focus rings; added regression coverage asserting no layer carries a `tabindex` attribute.
 
-<img src="https://github.com/remix-run.png?size=48" width="32" height="32" alt="remix" align="left" /> **[remix #11877](https://github.com/remix-run/remix/pull/11877)** - treat marker-less HTML starting with a doctype or <html> as a document
+<img src="https://github.com/remix-run.png?size=48" width="32" height="32" alt="remix" align="left" /> **[remix #11877](https://github.com/remix-run/remix/pull/11877)** - frame.ts infers flush kind from markup when no rmx flush marker is present, treating HTML starting with a doctype or html tag as a document so renderToString output navigates correctly.
 
 <img src="https://github.com/leo-aa88.png?size=48" width="32" height="32" alt="leo-aa88" align="left" /> **[reviewgate #144](https://github.com/leo-aa88/reviewgate/pull/144)** - adds a configurable excessive code-comment verbosity check computed from added patch lines only: `oversized_comment_block`, `excessive_comment_lines` and `comment_heavy_diff` are derived by a single-pass lexer that tracks string literals, block comments, template literals, shell heredocs and Python triple-quoted strings, so runtime data is never counted as commentary
 
