@@ -46,7 +46,7 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 <img src="https://cdn.simpleicons.org/node.js/339933" width="32" height="32" alt="Node.js" /> **[node-postgres #3772](https://github.com/brianc/node-postgres/pull/3772)** - fixed `Connection.sync()` incorrectly setting the internal `_ending` flag, preventing false suppression of subsequent socket errors.
 
-<img src="https://github.com/wntrblm.png?size=48" width="32" height="32" alt="nox" align="left" /> **[nox #1190](https://github.com/wntrblm/nox/pull/1190)** - test_noxfile_script_mode prepends the fake nox-999 package to PYTHONPATH instead of replacing it, so the subprocess keeps a staged nox importable when nox is only visible through PYTHONPATH, as in FreeBSD ports. The fake package stays first on the path, preserving the #1157 coverage.
+<img src="https://github.com/wntrblm.png?size=48" width="32" height="32" alt="wntrblm" align="left" /> **[nox #1190](https://github.com/wntrblm/nox/pull/1190)** - test_noxfile_script_mode prepends the fake nox-999 package to PYTHONPATH instead of replacing it, so the subprocess keeps a staged nox importable when nox is only visible through PYTHONPATH, as in FreeBSD ports. The fake package stays first on the path, preserving the #1157 coverage.
 
 <img src="https://github.com/pnpm.png?size=48" width="32" height="32" alt="pnpm" align="left" /> **[pnpm #14753](https://github.com/pnpm/pnpm/pull/14753)** - fixed `lockfile: false` being ignored during automatic package-manager switching.
 
