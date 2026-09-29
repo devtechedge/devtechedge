@@ -46,6 +46,8 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 <img src="https://cdn.simpleicons.org/node.js/339933" width="32" height="32" alt="Node.js" /> **[node-postgres #3772](https://github.com/brianc/node-postgres/pull/3772)** - fixed `Connection.sync()` incorrectly setting the internal `_ending` flag, preventing false suppression of subsequent socket errors.
 
+<img src="https://github.com/wntrblm.png?size=48" width="32" height="32" alt="nox" align="left" /> **[nox #1190](https://github.com/wntrblm/nox/pull/1190)** - keep existing PYTHONPATH in test_noxfile_script_mode
+
 <img src="https://github.com/pnpm.png?size=48" width="32" height="32" alt="pnpm" align="left" /> **[pnpm #14753](https://github.com/pnpm/pnpm/pull/14753)** - fixed `lockfile: false` being ignored during automatic package-manager switching.
 
 <img src="https://github.com/pnpm.png?size=48" width="32" height="32" alt="pnpm" align="left" /> **[pnpm #14754](https://github.com/pnpm/pnpm/pull/14754)** - fixed non-recursive pattern runs with `--no-bail` so matching scripts continue executing and failures are aggregated correctly.
