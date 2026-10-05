@@ -91,6 +91,8 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 <img src="https://github.com/thirdweb-dev.png?size=48" width="32" height="32" alt="thirdweb" align="left" /> **[thirdweb JS #8938](https://github.com/thirdweb-dev/js/pull/8938)** - fixed `useTokenQuery` collapsing real token lookup failures into `unsupported_token` instead of using the existing error/retry path.
 
 <img src="https://github.com/ssf0409.png?size=48" width="32" height="32" alt="tracelens" align="left" /> **[tracelens #140](https://github.com/ssf0409/tracelens/pull/140)** - markdown table cells in the report generator are now escaped with html.escape in addition to pipe and newline handling. Task ids or gate values containing pipes, line breaks, or HTML metacharacters no longer break the per-task and baseline-gate tables piped into $GITHUB_STEP_SUMMARY, and no cell can open a raw HTML element.
+
+<img src="https://github.com/mozilla.png?size=48" width="32" height="32" alt="Mozilla" align="left" /> **[uniffi-rs #3014](https://github.com/mozilla/uniffi-rs/pull/3014)** - `find_recursive_enum_names` walks IndexMap-backed dependency graphs and both `type_names_in_type` copies follow `Type::Custom`, so the recursive flag (and Swift indirect) is stable across builds and cycles through custom types are detected.
 <!-- ledger:profile-merged:end -->
 
 
