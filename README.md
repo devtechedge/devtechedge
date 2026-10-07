@@ -48,6 +48,8 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 <img src="https://github.com/wntrblm.png?size=48" width="32" height="32" alt="wntrblm" align="left" /> **[nox #1190](https://github.com/wntrblm/nox/pull/1190)** - test_noxfile_script_mode prepends the fake nox-999 package to PYTHONPATH instead of replacing it, so the subprocess keeps a staged nox importable when nox is only visible through PYTHONPATH, as in FreeBSD ports. The fake package stays first on the path, preserving the #1157 coverage.
 
+<img src="https://github.com/nuxt.png?size=48" width="32" height="32" alt="Nuxt" align="left" /> **[Nuxt Content #3868](https://github.com/nuxt/content/pull/3868)** - stopped `fetchContent()` forwarding the incoming request's `content-length`, `transfer-encoding`, `content-encoding` and `expect` headers to internal `/__nuxt_content` requests, so `queryCollection(event, ...)` after a large upload no longer hits a 413, with a new unit regression test.
+
 <img src="https://github.com/open-telemetry.png?size=48" width="32" height="32" alt="OpenTelemetry" align="left" /> **[opentelemetry-rust #3762](https://github.com/open-telemetry/opentelemetry-rust/pull/3762)** - added `serde(default)` to the `ExponentialHistogramDataPoint`, `Buckets`, `ValueAtQuantile` and `Exemplar` types in opentelemetry-proto, so OTLP/JSON metrics that omit ProtoJSON default fields now decode instead of the flattened `Metric.data` silently becoming `None`, with three JSON regression tests built from the issue payloads.
 
 <img src="https://github.com/pnpm.png?size=48" width="32" height="32" alt="pnpm" align="left" /> **[pnpm #14753](https://github.com/pnpm/pnpm/pull/14753)** - fixed `lockfile: false` being ignored during automatic package-manager switching.
