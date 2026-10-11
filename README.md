@@ -4,6 +4,10 @@
 
 I build production-grade AI and full-stack systems and contribute fixes upstream across AI, developer tooling, distributed systems, and Web3 infrastructure.
 
+**🎬 78-second intro: how I find, fix, and ship real bugs upstream**
+
+https://github.com/user-attachments/assets/5a23a9cd-4a8d-496a-a2a2-6e59e85eb54c
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178B9?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
