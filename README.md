@@ -2,9 +2,7 @@
 
 ### Full Stack AI Native Engineer · Open Source Contributor
 
-I build production-grade AI and full-stack systems and contribute fixes upstream across AI, developer tooling, distributed systems, and Web3 infrastructure.
-
-**🎬 78-second intro: how I find, fix, and ship real bugs upstream**
+🎬 I build production-grade AI and full-stack systems and contribute fixes upstream across AI, developer tooling, distributed systems, and Web3 infrastructure.
 
 https://github.com/user-attachments/assets/3fb48956-b5ea-44fc-8640-65292a201cea
 
