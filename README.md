@@ -6,7 +6,7 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 
 **🎬 78-second intro: how I find, fix, and ship real bugs upstream**
 
-https://github.com/user-attachments/assets/5a23a9cd-4a8d-496a-a2a2-6e59e85eb54c
+https://github.com/user-attachments/assets/3fb48956-b5ea-44fc-8640-65292a201cea
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178B9?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
