@@ -14,7 +14,7 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 <tr><td width="33%"><em>Meet Dev: I build production-grade AI systems and ship fixes upstream to reputable open source projects.</em></td><td width="33%"><em>Step 5 Preview crushed my heavy multi-turn coding tests: 1M context, 64K output, $1 per million tokens.</em></td><td width="33%"><em>DeepSeek's harness: plugin-based agent loop, append-only session logs, replayable runs, and sandboxed PowerShell execution.</em></td></tr>
 </table>
 
-<a href="https://github.com/devtechedge/daily-ai">All daily drops →</a>
+<a href="https://github.com/devtechedge/daily-ai">All daily video drops →</a>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178B9?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
