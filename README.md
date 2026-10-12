@@ -5,12 +5,13 @@
 🎬 I build production-grade AI and full-stack systems and contribute fixes upstream across AI, developer tooling, distributed systems, and Web3 infrastructure.
 
 <table>
-<tr><th>👋 Intro</th><th>🎬 Latest drop</th></tr>
+<tr><th>👋 Intro</th><th>🎬 Latest drop</th><th>🎬 Previous drop</th></tr>
 <tr>
 <td><video src="https://github.com/user-attachments/assets/3fb48956-b5ea-44fc-8640-65292a201cea" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/d5cd9422-b3b7-4140-9b3c-7b428d6039f0" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/d6136f69-589d-4220-9ab7-4a671084be2a" controls></video></td>
 </tr>
-<tr><td></td><td><em>Step5: what it is, what it does well, and how to try it.</em><br><a href="https://github.com/devtechedge/daily-ai">All daily drops →</a></td></tr>
+<tr><td></td><td><em>Step5: what it is, what it does well, and how to try it.</em><br><a href="https://github.com/devtechedge/daily-ai">All daily drops →</a></td><td><em>DeepSeek: the harness, sessions and storage.</em></td></tr>
 </table>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
