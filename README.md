@@ -27,7 +27,7 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 [![Docker](https://img.shields.io/badge/Docker-2496DB?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF6E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![Claude 5.5](https://img.shields.io/badge/Claude%205.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![ChatGPT GPT-6 Sol](https://img.shields.io/badge/ChatGPT_GPT--6_Sol-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
 [![Grok 4.7](https://img.shields.io/badge/Grok_4.7-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.ai/)
 [![Muse Spark 1.3](https://img.shields.io/badge/Muse_Spark_1.3-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://dev.meta.ai/)
