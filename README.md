@@ -7,11 +7,11 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 <table>
 <tr><th>👋 Intro</th><th>🎬 Latest drop</th><th>🎬 Previous drop</th></tr>
 <tr>
-<td><video src="https://github.com/user-attachments/assets/3fb48956-b5ea-44fc-8640-65292a201cea" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/d5cd9422-b3b7-4140-9b3c-7b428d6039f0" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/d6136f69-589d-4220-9ab7-4a671084be2a" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/3fb48956-b5ea-44fc-8640-65292a201cea" width="280" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/d5cd9422-b3b7-4140-9b3c-7b428d6039f0" width="280" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/d6136f69-589d-4220-9ab7-4a671084be2a" width="280" controls></video></td>
 </tr>
-<tr><td><em>Meet Dev: I build production-grade AI systems and ship fixes upstream to open source.</em></td><td><em>Step 5 Preview crushed my heavy multi-turn coding tests: 1M context, 64K output, $1 per million tokens.</em></td><td><em>DeepSeek's harness on Windows: plugin-based agent loop, append-only session logs, replayable runs, and sandboxed PowerShell execution.</em></td></tr>
+<tr><td width="33%"><em>Meet Dev: I build production-grade AI systems and ship fixes upstream to open source.</em></td><td width="33%"><em>Step 5 Preview crushed my heavy multi-turn coding tests: 1M context, 64K output, $1 per million tokens.</em></td><td width="33%"><em>DeepSeek's harness on Windows: plugin-based agent loop, append-only session logs, replayable runs, and sandboxed PowerShell execution.</em></td></tr>
 </table>
 
 <a href="https://github.com/devtechedge/daily-ai">All daily drops →</a>
