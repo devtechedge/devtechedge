@@ -4,15 +4,14 @@
 
 🎬 I build production-grade AI and full-stack systems and contribute fixes upstream across AI, developer tooling, distributed systems, and Web3 infrastructure.
 
-https://github.com/user-attachments/assets/3fb48956-b5ea-44fc-8640-65292a201cea
-
-### 🎬 Latest drop
-
-https://github.com/user-attachments/assets/d5cd9422-b3b7-4140-9b3c-7b428d6039f0
-
-*Step5: what it is, what it does well, and how to try it.*
-
-[All daily drops →](https://github.com/devtechedge/daily-ai)
+<table>
+<tr><th>👋 Intro</th><th>🎬 Latest drop</th></tr>
+<tr>
+<td><video src="https://github.com/user-attachments/assets/3fb48956-b5ea-44fc-8640-65292a201cea" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/d5cd9422-b3b7-4140-9b3c-7b428d6039f0" controls></video></td>
+</tr>
+<tr><td></td><td><em>Step5: what it is, what it does well, and how to try it.</em><br><a href="https://github.com/devtechedge/daily-ai">All daily drops →</a></td></tr>
+</table>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178B9?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
