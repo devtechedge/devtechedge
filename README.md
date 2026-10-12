@@ -11,8 +11,10 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 <td><video src="https://github.com/user-attachments/assets/d5cd9422-b3b7-4140-9b3c-7b428d6039f0" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/d6136f69-589d-4220-9ab7-4a671084be2a" controls></video></td>
 </tr>
-<tr><td></td><td><em>Step5: what it is, what it does well, and how to try it.</em><br><a href="https://github.com/devtechedge/daily-ai">All daily drops →</a></td><td><em>DeepSeek: the harness, sessions and storage.</em></td></tr>
+<tr><td><em>Meet Dev: I ship production AI systems and fix things upstream, and now I'm bringing it to camera.</em></td><td><em>StepFun Step 5 crushed my heavy multi-turn coding tests: 1M context, 64K output, $1 per million tokens.</em></td><td><em>Agents are half the story. DeepSeek's harness lets you configure, inspect and replay every agent run.</em></td></tr>
 </table>
+
+<a href="https://github.com/devtechedge/daily-ai">All daily drops →</a>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178B9?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
