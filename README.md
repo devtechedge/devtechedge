@@ -45,6 +45,8 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 <!-- ledger:profile-merged:start -->
 <img src="https://github.com/anza-xyz.png?size=48" width="32" height="32" alt="Anza" align="left" /> **[Anza Kit #2032](https://github.com/anza-xyz/kit/pull/2032)** - corrected the `getPatternMatchCodec` advanced guide to match current codec typing.
 
+<img src="https://github.com/api-platform.png?size=48" width="32" height="32" alt="API Platform" align="left" /> **[API Platform #8666](https://github.com/api-platform/core/pull/8666)** - An optional Laravel `BelongsTo` with a nullable foreign key now accepts an explicit null on POST and PATCH instead of a 500. The relation is marked nullable from its foreign key column, and a null `BelongsTo` or `MorphTo` is dissociated before save.
+
 <img src="https://github.com/better-auth.png?size=48" width="32" height="32" alt="Better Auth" align="left" /> **[Better Auth #11208](https://github.com/better-auth/better-auth/pull/11208)** - added regression coverage for missing OpenAPI `requestBody` generation after a Zod intersection.
 
 <img src="https://github.com/biomejs.png?size=48" width="32" height="32" alt="Biome" align="left" /> **[Biome #11667](https://github.com/biomejs/biome/pull/11667)** - added the `useBetterDomTraversing` nursery lint rule with safe transformations where semantics permit.
