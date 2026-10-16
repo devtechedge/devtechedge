@@ -11,7 +11,7 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 <td><video src="https://github.com/user-attachments/assets/d5cd9422-b3b7-4140-9b3c-7b428d6039f0" width="280" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/14b78e2c-6efa-4c04-bc7c-3c7212ecba73" width="280" controls></video></td>
 </tr>
-<tr><td width="33%"><em>Meet Dev: I build production-grade AI systems and ship fixes upstream to reputable open source projects.</em></td><td width="33%"><em>Step 5 Preview crushed my heavy multi-turn coding tests: 1M context, 64K output, $1 per million tokens.</em></td><td width="33%"><em>OpenCode Freebies: DeepSeek V4.1 Flash and NVIDIA Nemotron 3.5 Super VL are free on OpenCode for a limited time.</em></td></tr>
+<tr><td width="33%"><em>Meet Dev: I build production-grade AI systems and ship fixes upstream to reputable open source projects.</em></td><td width="33%"><em>Step 5 Preview crushed my heavy multi-turn coding tests: 1M context, 64K output, $1 per million tokens.</em></td><td width="33%"><em>DeepSeek V4.1 Flash and NVIDIA Nemotron 3.5 Super VL are free on OpenCode for a limited time.</em></td></tr>
 </table>
 
 <a href="https://github.com/devtechedge/daily-ai">All daily video drops →</a>
