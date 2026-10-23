@@ -9,9 +9,9 @@ I build production-grade AI and full-stack systems and contribute fixes upstream
 <tr>
 <td><video src="https://github.com/user-attachments/assets/3fb48956-b5ea-44fc-8640-65292a201cea" width="280" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/14b78e2c-6efa-4c04-bc7c-3c7212ecba73" width="280" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/d7c6d57b-2bcb-4e59-8e40-8b907c9f26f3" width="280" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/28badf9b-c12b-481d-a0f1-92eb7aa5fe31" width="280" controls></video></td>
 </tr>
-<tr><td width="33%"><em>Meet Dev: I build production-grade AI systems and ship fixes upstream to reputable open source projects.</em></td><td width="33%"><em>DeepSeek V4.1 Flash and NVIDIA Nemotron 3.5 Super VL are free on OpenCode for a limited time.</em></td><td width="33%"><em>OpenCode Go: Grok 4.7, GPT 6 Luna, Claude Haiku 5.5, Gemini 4 Argon and DeepSeek in one $10 a month plan.</em></td></tr>
+<tr><td width="33%"><em>Meet Dev: I build production-grade AI systems and ship fixes upstream to reputable open source projects.</em></td><td width="33%"><em>DeepSeek V4.1 Flash and NVIDIA Nemotron 3.5 Super VL are free on OpenCode for a limited time.</em></td><td width="33%"><em>Patch now: PHP, Node.js, GitLab and LiteLLM all had serious security issues this week.</em></td></tr>
 </table>
 
 <a href="https://github.com/devtechedge/daily-ai">All daily video drops →</a>
