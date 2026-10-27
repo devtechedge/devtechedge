@@ -4,6 +4,8 @@
 
 I build production-grade AI and full-stack systems and contribute fixes upstream across AI, developer tooling, distributed systems, and Web3 infrastructure.
 
+Open-sourced 55+ original public repositories across AI agents, full-stack products, Web3, and developer tooling.
+
 <table>
 <tr><th>👋 Intro</th><th>🎬 Previous drop</th><th>🎬 Latest drop</th></tr>
 <tr>
