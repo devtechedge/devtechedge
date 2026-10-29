@@ -135,6 +135,8 @@ Open-sourced 55+ original public repositories across AI agents, full-stack produ
 
 <img src="https://github.com/mozilla.png?size=48" width="32" height="32" alt="Mozilla" align="left" /> **[uniffi-rs #3014](https://github.com/mozilla/uniffi-rs/pull/3014)** - `find_recursive_enum_names` walks IndexMap-backed dependency graphs and both `type_names_in_type` copies follow `Type::Custom`, so the recursive flag (and Swift indirect) is stable across builds and cycles through custom types are detected.
 
+<img src="https://github.com/vortex-data.png?size=48" width="32" height="32" alt="Vortex Data" align="left" /> **[vortex #10760](https://github.com/vortex-data/vortex/pull/10760)** - hardened the ALP-RD encoding in vortex encodings/alp so its deserialize and decode paths stop trusting stored metadata: deserialize now bounds-checks dict_len against the stored dictionary, validate rejects dictionaries longer than MAX_DICT_SIZE and right bit widths at or above the float bit width, and both code-decode paths check every left-parts code before indexing the dictionary. A corrupt or crafted file now returns an error instead of panicking a read. Adds six regression tests and a valid-metadata control.
+
 <img src="https://github.com/getzola.png?size=48" width="32" height="32" alt="getzola" align="left" /> **[Zola #3293](https://github.com/getzola/zola/pull/3293)** - the `zola serve` dev server now escapes HTML in its build-error overlay, so a build error that quotes markup, such as an `img` tag or `&`, shows as literal text instead of being parsed by the browser. The overlay renders through a Tera `one_off` template with autoescape on, replacing the raw `format!` string in `error_injection_middleware`.
 <!-- ledger:profile-merged:end -->
 
