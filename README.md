@@ -83,6 +83,8 @@ Open-sourced 55+ original public repositories across AI agents, full-stack produ
 
 <img src="https://github.com/pnpm.png?size=48" width="32" height="32" alt="pnpm" align="left" /> **[pnpm #14863](https://github.com/pnpm/pnpm/pull/14863)** - fixed startup crashes on FreeBSD and other non-Windows Unix-like platforms by making default_store_dir use the Unix fallback path, with platform-specific regression coverage.
 
+<img src="https://github.com/bufbuild.png?size=48" width="32" height="32" alt="protobuf-es" align="left" /> **[protobuf-es #1572](https://github.com/bufbuild/protobuf-es/pull/1572)** - textDecoder string decoding keeps a leading U+FEFF.
+
 <img src="https://github.com/pytest-dev.png?size=48" width="32" height="32" alt="pytest-env" align="left" /> **[pytest-env #262](https://github.com/pytest-dev/pytest-env/pull/262)** - documented that pytest.toml and .pytest.toml accept the native [pytest] env table, not only the plugin-specific [pytest_env] section.
 
 <img src="https://github.com/mkdocstrings.png?size=48" width="32" height="32" alt="mkdocstrings" align="left" /> **[python #342](https://github.com/mkdocstrings/python/pull/342)** - autorefsHook.expand_identifier anchors leading-dot relative cross-references on docstring.parent, the object the docstring was written on, so inherited members resolve against the defining module instead of the inheriting class.
